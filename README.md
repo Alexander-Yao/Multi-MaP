@@ -47,7 +47,13 @@ python main.py --dataset cards --lr 0.005 --alpha 0.2 --beta 0.3 --weight_decay 
 ```
 ## Bibtex
 Please cite our paper if you use this code in your own work:
-
-
+```
+@article{yao2024multi,
+  title={Multi-Modal Proxy Learning Towards Personalized Visual Multiple Clustering},
+  author={Yao, Jiawei and Qian, Qi and Hu, Juhua},
+  journal={arXiv preprint arXiv:2404.15655},
+  year={2024}
+}
+```
 ## Acknowledgement
 This research is supported in part by Advata Gift funding. All opinions, findings, conclusions and recommendations in this paper are those of the author and do not necessarily reflect the views of the funding agencies.
